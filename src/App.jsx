@@ -7,3 +7,5 @@ function App() {
     <Home></Home>
   );
 }
+
+export default App;
